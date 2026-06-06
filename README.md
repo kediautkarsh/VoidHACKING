@@ -9,7 +9,7 @@ A community for cybersecurity enthusiasts, programmers, Linux users, and technol
 <br>
 
 [![Discord](https://img.shields.io/badge/💜_Join_Discord-8A2BE2?style=for-the-badge)](https://discord.gg/YgMbmZWAC8)
-[![GitHub](https://img.shields.io/badge/⭐_Follow_Project-6A0DAD?style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/⭐_Star this project?-6A0DAD?style=for-the-badge)](#)
 
 </div>
 
